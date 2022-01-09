@@ -1,7 +1,10 @@
+*-dist/
 *.hprof
 *.iml
+*.tar.gz
 *.xccheckout
 *.xcscmblueprint
+*.zip
 .DS_Store
 .build/
 .classpath
