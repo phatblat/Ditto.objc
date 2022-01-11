@@ -3,16 +3,16 @@
 import PackageDescription
 
 let package = Package(
-    name: "Ditto.objc",
+    name: "DittoObjC",
     platforms: [ .iOS(.v11), .macOS(.v11) ],
     products: [
         .library(
-            name: "Ditto.objc",
-            targets: ["Ditto.objc"]),
+            name: "DittoObjC",
+            targets: ["DittoObjC"]),
     ],
     targets: [
         .binaryTarget(
-            name: "Ditto.objc",
+            name: "DittoObjC",
 
             // url: "https://software.ditto.live/cocoa/DittoObjC/1.0.19/dist/DittoObjC-dist.tar.gz",
             // checksum: bbaec34d74b268be0df6b6664896c1ea26f145237bfb247e82811e4722a36b78
