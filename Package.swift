@@ -13,7 +13,6 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "DittoObjC",
-            path: "DittoObjC.xcframework"
 
             // url: "https://software.ditto.live/cocoa/DittoObjC/1.0.19/dist/DittoObjC-dist.tar.gz",
             // checksum: bbaec34d74b268be0df6b6664896c1ea26f145237bfb247e82811e4722a36b78
