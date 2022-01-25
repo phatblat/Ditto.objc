@@ -1,8 +1,7 @@
 # Ditto Objective-C for the Swift Package Manager
 
-https://docs.ditto.live/installation/ios
-
-See [Ditto.swift](https://github.com/phatblat/Ditto.swift)
+This was a test package that will not be maintained.
+Moved to [@getditto/DittoObjC](https://github.com/getditto/DittoObjC).
 
 ## 📄 License
 
